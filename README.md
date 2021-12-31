@@ -27,7 +27,7 @@ Features that currently selenium-stealth can offer:
 ## Install
 Selenium-stealth is available on npm.
 ```
-$ npm install selenium-stealth
+$ npm install selenium-stealth-fixed
 ```
 
 ## Usage
